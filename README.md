@@ -4,7 +4,7 @@
  https://www.alura.com.br/
  https://www.pluralsight.com/
  
- Blogs
+ # Blogs
  -http://www.eduardopires.net.br/
 
  -ASP NET MVC
@@ -19,21 +19,21 @@
  -RestFull
  -SOAP
 
-Princípios de programação 
+# Princípios de programação 
  -GRASP
  -SOLID
- -*DDD (Focando em Manutenibilidade de Software)
+ -DDD (Focando em Manutenibilidade de Software)
 
-Formato de aplicações Web
+# Formato de aplicações Web
  -SPA
  -MPA
-Versionamento de Código 
+# Versionamento de Código 
 Source Control
  -GIT
  -SUBVERSION (TORTORISE)
  -TFS
 
-Front-End
+# Front-End
 
  -React
  -AngularJs, Angular 5.*.....
